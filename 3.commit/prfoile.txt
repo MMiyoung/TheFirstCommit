@@ -1,2 +1,2 @@
 email : al2969@naver.com
-gitID : al2969
+gitID : al296900
